@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0!</string>
+    <string name="btnAbout">ABOUT ALC</string>
+    <string name="btnProfile">MY PROFILE</string>
+    <string name="todo">Gastone</string>
+    <string name="textview">Name : Gastone Dereck\nTrack : Android\nCountry : Tanzania\nEmail : gastondereck@gmail.com\nPhone No : 25567302820</string>
+
+</resources>
